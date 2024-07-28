@@ -3,19 +3,19 @@
   "WorkspaceRootPath": "D:\\NanoDNA Studios\\Programming\\CPP-DLL-Practice\\MathLibrary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{84D72EE1-A522-42A9-AC42-C159518C0B89}|..\\MathClient\\MathClient.vcxproj|D:\\NanoDNA Studios\\Programming\\CPP-DLL-Practice\\MathClient\\MathClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{64FC0C81-79B3-4697-ACAE-92ABE898F32E}|MathLibrary\\MathLibrary.vcxproj|D:\\NanoDNA Studios\\Programming\\CPP-DLL-Practice\\MathLibrary\\MathLibrary\\MathLibrary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{64FC0C81-79B3-4697-ACAE-92ABE898F32E}|MathLibrary\\MathLibrary.vcxproj|solutionrelative:MathLibrary\\MathLibrary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC0C81-79B3-4697-ACAE-92ABE898F32E}|MathLibrary\\MathLibrary.vcxproj|D:\\NanoDNA Studios\\Programming\\CPP-DLL-Practice\\MathLibrary\\MathLibrary\\MathLibrary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{64FC0C81-79B3-4697-ACAE-92ABE898F32E}|MathLibrary\\MathLibrary.vcxproj|solutionrelative:MathLibrary\\MathLibrary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64FC0C81-79B3-4697-ACAE-92ABE898F32E}|MathLibrary\\MathLibrary.vcxproj|D:\\NanoDNA Studios\\Programming\\CPP-DLL-Practice\\MathLibrary\\MathLibrary\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{64FC0C81-79B3-4697-ACAE-92ABE898F32E}|MathLibrary\\MathLibrary.vcxproj|solutionrelative:MathLibrary\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64FC0C81-79B3-4697-ACAE-92ABE898F32E}|MathLibrary\\MathLibrary.vcxproj|D:\\NanoDNA Studios\\Programming\\CPP-DLL-Practice\\MathLibrary\\MathLibrary\\MathLibrary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{64FC0C81-79B3-4697-ACAE-92ABE898F32E}|MathLibrary\\MathLibrary.vcxproj|solutionrelative:MathLibrary\\MathLibrary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{84D72EE1-A522-42A9-AC42-C159518C0B89}|..\\MathClient\\MathClient.vcxproj|D:\\NanoDNA Studios\\Programming\\CPP-DLL-Practice\\MathClient\\MathClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,11 +25,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 272,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MathClient.cpp",
               "DocumentMoniker": "D:\\NanoDNA Studios\\Programming\\CPP-DLL-Practice\\MathClient\\MathClient.cpp",
               "RelativeDocumentMoniker": "..\\MathClient\\MathClient.cpp",
@@ -42,26 +42,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MathLibrary.cpp",
               "DocumentMoniker": "D:\\NanoDNA Studios\\Programming\\CPP-DLL-Practice\\MathLibrary\\MathLibrary\\MathLibrary.cpp",
               "RelativeDocumentMoniker": "MathLibrary\\MathLibrary.cpp",
               "ToolTip": "D:\\NanoDNA Studios\\Programming\\CPP-DLL-Practice\\MathLibrary\\MathLibrary\\MathLibrary.cpp",
               "RelativeToolTip": "MathLibrary\\MathLibrary.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-28T04:45:39.391Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "MathLibrary.h",
               "DocumentMoniker": "D:\\NanoDNA Studios\\Programming\\CPP-DLL-Practice\\MathLibrary\\MathLibrary\\MathLibrary.h",
               "RelativeDocumentMoniker": "MathLibrary\\MathLibrary.h",
               "ToolTip": "D:\\NanoDNA Studios\\Programming\\CPP-DLL-Practice\\MathLibrary\\MathLibrary\\MathLibrary.h",
               "RelativeToolTip": "MathLibrary\\MathLibrary.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-07-28T04:44:27.903Z",
               "EditorCaption": ""
@@ -74,7 +74,7 @@
               "RelativeDocumentMoniker": "MathLibrary\\dllmain.cpp",
               "ToolTip": "D:\\NanoDNA Studios\\Programming\\CPP-DLL-Practice\\MathLibrary\\MathLibrary\\dllmain.cpp",
               "RelativeToolTip": "MathLibrary\\dllmain.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-28T04:43:53.305Z",
               "EditorCaption": ""
